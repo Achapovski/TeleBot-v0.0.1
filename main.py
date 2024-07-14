@@ -345,7 +345,3 @@ if __name__ == "__main__":
         print("Run bot")
     except KeyboardInterrupt:
         pass
-
-
-async def function_for_test_repo():
-    await ""
